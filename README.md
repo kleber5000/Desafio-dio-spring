@@ -1,2 +1,2 @@
 # Desafio-dio-spring
-Desafio do curso de Spring da DIO
+Desafios do curso de Spring da DIO
